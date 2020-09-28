@@ -1,2 +1,2 @@
 # studyresource
-学习资料
+linux学习资料
